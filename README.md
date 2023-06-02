@@ -11,7 +11,8 @@ Un increíble blog para el curso de Git y GitHub de Platzi.
 * El gran equipo de platzi 
 * Una linda imagen que hice con ayuda de paint en la parte superior de la cabecera
 * Una foto de Freddy esta en el footer 
-* Una decoracion increible 
+* Una decoracion increible
+* Creado por Juan J.F.B. 
 
 Le agradezco al lector por esos ojos tan lindos que ven mi creacion y mi proceso de aprendizaje, lo aprecio y me encanta compartir estas experiencias. 👌
 *Por si no sabes ni donde estas: [este es el repositiorio de Hyperblog](https://github.com/Juan2742/Hyperblog) y [aquí](https://platzi.com/clases/1557-git-github/) veras donde aprendi a hacer esto*
